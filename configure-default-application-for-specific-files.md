@@ -7,3 +7,9 @@
 ## effect
 for instance, for markdown files, if the default application is not typora, then 
 `open -a typora <foo.md>` needs to be used. now `open <foo.md>` is enough
+
+## examples
+
+Link mp3 files with MKPlayer. By default, they are linked with iTunes. MKPlayer is much more
+
+**light-weight**, suitable for mp3 files.  
