@@ -6,4 +6,5 @@
 maximize with magnet shortcut ctrl-alt-enter
 
 # full screen
-toggle full screen with ctrl-cmd-f
+- toggle full screen with ctrl-cmd-f
+- compared with maximized mode, full screen doesn't show menu bar, tile bar and the dock
