@@ -19,3 +19,6 @@ cmd+shift+h: home
 cmd+shift+u: utilities
 cmd+shift+f: recent(find recent file)
 cmd+shift+g: this one is *awesome*. **go to folder**
+
+## toggle hide/show
+toggle hide/show in the left sidebar for quick navigation
